@@ -36,12 +36,9 @@
 <table>
   <tr>
     <td valign="top" width="40%">
-      
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rugmatteo&layout=compact&langs_count=8&theme=tokyonight"/>
-
     </td>
     <td valign="top" width="60%">
-
       <p align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
@@ -59,7 +56,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
       </p>
-
     </td>
   </tr>
 </table>
